@@ -4,6 +4,9 @@
     "prettier": "prettier --write \"**/*.{ts,tsx,json,js,css,html}\""
   },
   "devDependencies": {
+    "@types/aws-lambda": "^8.10.107",
+    "@types/node": "^18.11.0",
+    "aws-sdk": "^2.1234.0",
     "prettier": "2.7.1"
   }
 }
