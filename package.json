@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "compile": "tsc",
+    "prettier": "prettier --write \"**/*.{ts,tsx,json,js,css,html}\""
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
